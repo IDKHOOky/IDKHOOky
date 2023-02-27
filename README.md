@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IDKHOOky
 - 👀 I’m interested in Coding 
-- 🌱 I’m currently learning Programing lah=guage and how to code 
-- 💞️ I’m looking to collaborate on Fivem and fivem gta5 rp servers so basically game coding!!
+- 🌱 I’m currently learning Programing Python 
+- 💞️ I’m looking to collaborate on learning to create  cheats for games such as Warzone fornite fifa23 
  
 
 <!---
